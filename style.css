@@ -37,6 +37,7 @@ button{
     background-color: grey;
     font-weight: bold;
     color: white;
+    overflow: hidden;
 }
 button:hover{
     background-color: rgb(189, 188, 188);
